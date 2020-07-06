@@ -1,0 +1,6 @@
+model_checkpoint_path: "inception-cifar-epoch-9"
+all_model_checkpoint_paths: "inception-cifar-epoch-5"
+all_model_checkpoint_paths: "inception-cifar-epoch-6"
+all_model_checkpoint_paths: "inception-cifar-epoch-7"
+all_model_checkpoint_paths: "inception-cifar-epoch-8"
+all_model_checkpoint_paths: "inception-cifar-epoch-9"
